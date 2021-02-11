@@ -1,9 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-//  Run this bitch
 
-//  FULLY FUNCTIONAL BIATCH
 public class RunGame {
 	public static void main(String[] args) {
 		
